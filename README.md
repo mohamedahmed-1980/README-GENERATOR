@@ -32,7 +32,7 @@ you can clone my repo and you can contribute to the project
 
 you can use jest or any other test library
 
-## Test-instructions
+## License
 
 [mit](https://mit-license.org/)
 
